@@ -21,4 +21,7 @@ I am a freelance full-stack developer with strong experience in building product
 ---
 [![](https://visitcount.itsvg.in/api?id=amarjeet-choudhary666&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧠 LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/amarjeetchoudhary)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
